@@ -3,6 +3,7 @@ compiler:
   - clang
 notifications:
   email: false
+  hipchat: 449810a4693f8f3aef94061662c015@Pushes
 env:
   matrix:
     - JULIAVERSION="juliareleases"
